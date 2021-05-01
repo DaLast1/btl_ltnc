@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLThueXe", "QLThueXe\QLThueXe.csproj", "{AE9CE1A3-0809-4557-95F0-76A29A643FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE9CE1A3-0809-4557-95F0-76A29A643FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9CE1A3-0809-4557-95F0-76A29A643FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9CE1A3-0809-4557-95F0-76A29A643FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9CE1A3-0809-4557-95F0-76A29A643FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D638CC6E-02CD-47C5-86F6-52C5CBE82EF8}
+	EndGlobalSection
+EndGlobal

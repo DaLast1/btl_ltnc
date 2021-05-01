@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\bin\Debug\QLThueXe.exe.config
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\bin\Debug\QLThueXe.exe
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\bin\Debug\QLThueXe.pdb
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.Form1.resources
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.Properties.Resources.resources
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.exe
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.pdb
+D:\Temporary File\QLThueXe-main\QLThueXe\obj\Debug\QLThueXe.csprojAssemblyReference.cache
+D:\Temporary File\QLThueXe-main\QLThueXe\obj\Debug\QLThueXe.Properties.Resources.resources
+D:\Temporary File\QLThueXe-main\QLThueXe\obj\Debug\QLThueXe.csproj.GenerateResource.cache
+D:\Temporary File\QLThueXe-main\QLThueXe\obj\Debug\QLThueXe.csproj.CoreCompileInputs.cache
+D:\Temporary File\QLThueXe-main\QLThueXe\obj\Debug\QLThueXe.exe
+D:\Temporary File\QLThueXe-main\QLThueXe\obj\Debug\QLThueXe.pdb
+D:\Temporary File\QLThueXe-main\QLThueXe\bin\Debug\QLThueXe.exe.config
+D:\Temporary File\QLThueXe-main\QLThueXe\bin\Debug\QLThueXe.exe
+D:\Temporary File\QLThueXe-main\QLThueXe\bin\Debug\QLThueXe.pdb
+D:\Temporary File\QLThueXe-main\QLThueXe\obj\Debug\QLThueXe.Form.resources
+D:\Temporary File\BTL-LTNC\QLThueXe\bin\Debug\QLThueXe.exe.config
+D:\Temporary File\BTL-LTNC\QLThueXe\bin\Debug\QLThueXe.exe
+D:\Temporary File\BTL-LTNC\QLThueXe\bin\Debug\QLThueXe.pdb
+D:\Temporary File\BTL-LTNC\QLThueXe\obj\Debug\QLThueXe.csprojAssemblyReference.cache
+D:\Temporary File\BTL-LTNC\QLThueXe\obj\Debug\QLThueXe.Form.resources
+D:\Temporary File\BTL-LTNC\QLThueXe\obj\Debug\QLThueXe.Properties.Resources.resources
+D:\Temporary File\BTL-LTNC\QLThueXe\obj\Debug\QLThueXe.csproj.GenerateResource.cache
+D:\Temporary File\BTL-LTNC\QLThueXe\obj\Debug\QLThueXe.csproj.CoreCompileInputs.cache
+D:\Temporary File\BTL-LTNC\QLThueXe\obj\Debug\QLThueXe.exe
+D:\Temporary File\BTL-LTNC\QLThueXe\obj\Debug\QLThueXe.pdb
